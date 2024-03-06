@@ -15,17 +15,24 @@ Data Files
 QUESTIONS WE WERE TRYING TO ANSWER:
 
 Exploring listings data
+
 Q1: What are the top 10 neighborhoods with the highest listings?
+
 Answer: Out of the top 10, Capitol Hill is the neighborhood with the highest number of listings of all neighborhoods
 
 Q2: What is the average price per neighborhood?
+
 Answer: Out of the top 10, Kaanapali is the most expensive neighborhood on average
 
 Exploring reviews data
+
 Q1: Are there any reviewers with more than one review?
+
 Answer: Yes, 10.7%
 
 Exploring calendar data
+
 Q1: What are the price trends of time?
+
 Answer: The minimum price was in 2012/01, the maximum price in 2016/07, and prices dropped to moderate between 2016/11 and 2017/01
 
