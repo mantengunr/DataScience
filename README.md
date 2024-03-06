@@ -1,21 +1,33 @@
 # DataScience
-Code for a data science blog post.
 
-This project explores the Seattle Airbnb Data
+This project explores the Seattle Airbnb Data for a blog post.
 
-For exploring data we used python and pandas library
+For exploring data we used python and different libraries, indluding pandas, matplotlib and seaborn.
 
 Code Files
 1. ExploreData.py is the python script used to explore data
 
 Data Files
-1. calender.csv is the calendar data file that lists availability abd prices on differenr dates
-2. listings.csv is the data that contains details about the room
-3. reviews.csv is the data files that contains reviews for different bookings
+1. calender.csv including listing id and the price and availability for that day
+2. listings.csv including full descriptions and average review score
+3. reviews.csv including unique id for each reviewer and detailed comments
 
-Summary of the results of the analysis
-- There is a peron who did more that one reviews. Can be catagorized as a regular client.
-- The total number of listings is 3818
-- The number of listings with missing values for cleanliness review scores 653
-- Availability: 67.06100160020667%
+QUESTIONS WE WERE TRYING TO ANSWER:
+Eploring listings data
+----------------------
+Q1: What is the top 10 neighborhoods with the highest number of listings?
+Answer: Out ot the top 10, Capitol Hill is the neighborhood with the highest number of listings than all neighborhoods
+
+Q2: What is the average price per neighborhoods?
+Answer: Out ot the top 10, Kaanapali is the most expensive neighborhood on average
+
+Eploring reviews data
+----------------------
+Q1: Are there any reviewers with more than one review?
+Answer: Yes, 10.7%
+
+Exploring calendar data
+-----------------------
+Q1: What is the price trends of time?
+Answer: minimum price was in 2012/01, naximum price in 2016/07, prices dropped to moderate between 2016/11 and 2017/01
 
