@@ -26,15 +26,15 @@ Question 3:  Using the reviews data, are there any reviewers with more than one 
 
 Answer: Yes, 10.7%
 
-Q1:  Using the calendar data, what are the price trends of time?
+Question 4:  Using the calendar data, what are the price trends of time?
 
 Answer: The minimum price was in 2012/01, the maximum price in 2016/07, and prices dropped to moderate between 2016/11 and 2017/01
 
-LINK TO THE MEDIUMN BLOG POST: https://medium.com/@nkanyiso.mantengu/seattle-airbnb-data-exploration-9d532f43c06c
+LINK TO THE MEDIUM BLOG POST: https://medium.com/@nkanyiso.mantengu/seattle-airbnb-data-exploration-9d532f43c06c
 
 ACKNOWLEDGEMENTS and LICENSING
 
-Aknowledgements:  Airbnb in Seattle, WA, USA
+Acknowledgments:  Airbnb in Seattle, WA, USA
 
 Data Source: https://www.kaggle.com/datasets/airbnb/seattle/data
 
